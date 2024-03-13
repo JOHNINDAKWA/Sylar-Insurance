@@ -281,7 +281,7 @@ body.nav-active { overflow: hidden; }
   left: 0;
   width: 100%;
   height: 100vh;
-  background-color: var(--verdigris);
+  background-color: var(--midnight-green);
   display: grid;
   place-items: center;
   z-index: 6;
